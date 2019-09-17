@@ -1,4 +1,4 @@
-# Pig Latin Task
+# Pig Latin
  
 - Words that start with a consonant have their first letter moved to the end of the word and the letters “ay” added to the end.
   - **Hello** becomes **Ellohay**
